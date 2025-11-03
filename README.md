@@ -1,7 +1,7 @@
 # Project Overview.
 
 <p align="left">
-  This is a simple static website that will display <b>This is Lano Pulijc's Website.</b>
+  This is a simple static website that will display <b>This is Lano Puljic's Website.</b>
   <br />
 </p>
 
