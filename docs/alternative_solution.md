@@ -43,7 +43,7 @@ Other possible solutions include:
 
 1. AWS Elastic Beanstalk
 2. AWS App Runner
-3. Amazon Lightsail STatic IP + NGINX
+3. Amazon Lightsail Static IP + NGINX
 4. AWS AppSync + S3 + CloudFront Hybrid
 
 Conclusion:

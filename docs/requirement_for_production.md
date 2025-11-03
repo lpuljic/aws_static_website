@@ -49,6 +49,9 @@ distribution,
 ##### CI/CD Pipeline
 - **Automated Deployment**: Implement CI/CD pipeline (GitHub Actions) for automated deployments
 - **Testing**: Add automated testing for infrastructure and content validation
+    * tflint
+    * checkov
+    * tfsec
 - **Rollback Strategy**: Implement quick rollback capabilities for failed deployments
 
 ##### Infrastructure Management
