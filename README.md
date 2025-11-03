@@ -21,7 +21,7 @@
   ·
   <a href="docs/requirement_for_production.md">Production_Readiness</a>
   ·
-  <a href="docs/what_else_i_would_do.md">what_else</a>
+  <a href="docs/what_else_i_would_do.md">What_Else</a>
   ·
 </p>
 
